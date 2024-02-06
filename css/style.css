@@ -261,7 +261,6 @@ body {
   background-color: var(--bg);
   border: 1px solid #eee;
   padding-left: 2rem;
-  width: 100%;
 }
 
 .contact .row form .input-grup input {
@@ -269,6 +268,7 @@ body {
   font-size: 1.7rem;
   background: none;
   color: #fff;
+  width: 100%;
 }
 
 .contact .row form .btn {
