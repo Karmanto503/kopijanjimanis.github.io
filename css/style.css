@@ -249,7 +249,7 @@ body {
 }
 
 .contact .row form {
-  flex-direction: 1 1 45rem;
+  flex: 1 1 45rem;
   padding: 5rem 2rem;
   text-align: center;
 }
